@@ -1,0 +1,2 @@
+getallen = []
+som = 0
